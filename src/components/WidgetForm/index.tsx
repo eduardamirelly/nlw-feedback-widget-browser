@@ -1,10 +1,10 @@
 import { useState } from "react"
 
-import CloseButton from "./CloseButton"
+import CloseButton from "../CloseButton"
 
-import bugImageUrl from '../assets/Bug.svg'
-import ideaImageUrl from '../assets/Idea.svg'
-import thoughtImageUrl from '../assets/Thought.svg'
+import bugImageUrl from '../../assets/Bug.svg'
+import ideaImageUrl from '../../assets/Idea.svg'
+import thoughtImageUrl from '../../assets/Thought.svg'
 
 const feedbackTypes = {
   BUG: {
