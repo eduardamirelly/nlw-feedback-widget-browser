@@ -91,4 +91,4 @@ Open on your browser this URL: ```localhost:3000```
 
 ## 📄 Licença
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
