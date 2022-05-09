@@ -51,7 +51,7 @@ VITE_API_URL=http://localhost:3333
 ```
 
 Find ```nodemailer-mail-adapter.ts``` file in ./server and put your mailtrap credentials:
-```cl
+```javascript
 const transport = nodemailer.createTransport({
 	host: {MAIL_HOST},
 	port: 2525,
