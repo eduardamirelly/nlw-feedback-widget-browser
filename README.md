@@ -87,7 +87,7 @@ On ./nlw-feedback-widget-web/server for run server back-end:
 npm run dev
 ```
 
-Open on your browser this URL: ```localhost:3000```
+Open on your browser this URL: [localhost:3000](localhost:3000)
 
 ## 📄 Licença
 
