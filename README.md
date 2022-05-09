@@ -43,11 +43,23 @@ On ./nlw-feedback-widget-web/server directory
 npm install
 ```
 
-### Second Step [Config env file]
+### Second Step [Config env file and Mailtrap Credentials]
 
 Create ```.env.local``` on ./nlw-feedback-widget-web directory and put this variable:
 ```cl
 VITE_API_URL=http://localhost:3333
+```
+
+Find ```nodemailer-mail-adapter.ts``` file in ./server and put your mailtrap credentials:
+```cl
+const transport = nodemailer.createTransport({
+	host: {MAIL_HOST},
+	port: 2525,
+	auth: {
+		user: {MAIL_USER},
+		pass: {MAIL_PASSWORD}
+	}
+});
 ```
 
 ### Third Step [Config Prisma Database]
