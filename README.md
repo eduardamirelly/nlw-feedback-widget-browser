@@ -32,19 +32,19 @@ You can view the project layout through [this link](https://www.figma.com/commun
 
 ### Firt Step [Install dependencies]
 
-On ./feedback-widget-browser directory
+On ./nlw-feedback-widget-web directory
 ```cl
 npm install
 ```
 
-On ./feedback-widget-browser/server directory
+On ./nlw-feedback-widget-web/server directory
 ```cl
 npm install
 ```
 
 ### Second Step [Config env file]
 
-Create ```.env.local``` on ./feedback-widget-browser directory and put this variable:
+Create ```.env.local``` on ./nlw-feedback-widget-web directory and put this variable:
 ```cl
 VITE_API_URL=http://localhost:3333
 ```
@@ -77,12 +77,12 @@ npx prisma migrate dev
 
 For finally run this project:
 
-On ./feedback-widget-browser for run vite server:
+On ./nlw-feedback-widget-web for run vite server:
 ```ci
 npm run dev
 ```
 
-On ./feedback-widget-browser/server for run server back-end:
+On ./nlw-feedback-widget-web/server for run server back-end:
 ```ci
 npm run dev
 ```
