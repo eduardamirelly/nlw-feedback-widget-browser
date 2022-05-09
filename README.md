@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/static/v1?label=NLW&message=08&color=8257E5&labelColor=0A1033" alt="NLW 06" />
 </p>
 
-## 💻 Project
+## 💻 Project [Web]
 Application for help final users when something happen on your web page, making possible send feedbacks about bugs, ideas or others things with one screenshot and comment.
 
 ## ✨ Technologies
