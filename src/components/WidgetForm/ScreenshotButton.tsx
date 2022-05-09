@@ -32,6 +32,7 @@ export function ScreenshotButton({ screenshot, onScreenshotTook }: ScreenshotBut
 				style={{
 					backgroundImage: `url(${screenshot})`,
 					backgroundSize: 180,
+					backgroundPosition: 'right bottom',
 				}}
 			>
 				<Trash weight="fill" />
