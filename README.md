@@ -18,6 +18,7 @@ Application for help final users when something happen on your web page, making 
 -   [ ] Cors
 -   [ ] Prisma
 -   [ ] Jest
+-   [ ] Mailtrap.io
 
 ## 🚀 Deploy
 
