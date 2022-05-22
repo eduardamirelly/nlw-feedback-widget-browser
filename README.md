@@ -10,6 +10,7 @@ Application for help final users when something happen on your web page, making 
 
 ## ✨ Technologies
 
+-   [ ] Vite
 -   [ ] React
 -   [ ] Typescript
 -   [ ] TailwindCSS
