@@ -103,6 +103,6 @@ npm run dev
 
 Open on your browser this URL: [localhost:3000](http://localhost:3000)
 
-## 📄 Licença
+## 📄 License
 
 This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
